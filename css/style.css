@@ -1,0 +1,9 @@
+h1 {
+  color: blue;
+}
+
+.sunny-box {
+  width: 64px;
+  height: 64px;
+  padding: 10px;
+}
